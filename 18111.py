@@ -15,18 +15,22 @@
 전체 블록 수 + b의 평균 -> 최대높이
 최소 블록의 수 -> 최소높이 
 '''
+import sys
+input = sys.stdin.readline
+
 N, M, b = tuple(map(int, input().split()))
 site = [list(map(int, input().split())) for _ in range(N)]
 
 def cal_time(hi):
     time=0
-    for i in range(N):
-        for j in range(M):
-            if hi<=site[i][j]:
-                time+=2*(site[i][j]-hi)
+    time_2=0
+    for i in site:
+        for j in i:
+            if hi<=j:
+                time_2+=j-hi
             else:
-                time+=hi-site[i][j]
-    return time
+                time+=hi-j
+    return time+time_2*2
 
 max_h=0
 min_h=256
@@ -35,9 +39,10 @@ for i in range(N):
     min_h=min(min_h, min(site[i]))  # 땅의 최소 높이
 max_h=min((max_h+b)//(N*M), 256)     # 땅의 최대 높이
 
-min_time=cal_time(max_h)            # 최소 시간
-cur_hi=max_h                        # 최소 시간일 때의 땅의 높이
-for i in range(min_h, max_h):
+min_time=cal_time(min_h)            # 최소 시간
+cur_hi=min_h                        # 최소 시간일 때의 땅의 높이
+min_h+=1
+for i in range(min_h, max_h+1):
     cur_time = cal_time(i)
     # 최소시간 갱신
     if cur_time <= min_time:
