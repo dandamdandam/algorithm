@@ -20,3 +20,9 @@ https://github.com/dandamdandam/algorithm/blob/main/
 
 ### 파싱
 - [5430.py](https://github.com/dandamdandam/algorithm/blob/main/5430.py)
+
+### 분할정복
+- [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
+
+### 재귀
+- [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
