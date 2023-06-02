@@ -3,6 +3,8 @@ https://github.com/dandamdandam/algorithm/blob/main/
 
 ### 구현
 - [18111.py](https://github.com/dandamdandam/algorithm/blob/main/18111.py)
+- [5430.py](https://github.com/dandamdandam/algorithm/blob/main/5430.py)
+
 ### 그래프 탐색
 - [7576.py](https://github.com/dandamdandam/algorithm/blob/main/7576)
 
@@ -12,3 +14,9 @@ https://github.com/dandamdandam/algorithm/blob/main/
 
 ### 브루트포스 알고리즘
 - [18111.py](https://github.com/dandamdandam/algorithm/blob/main/18111.py)
+
+### 덱
+- [5430.py](https://github.com/dandamdandam/algorithm/blob/main/5430.py)
+
+### 파싱
+- [5430.py](https://github.com/dandamdandam/algorithm/blob/main/5430.py)
