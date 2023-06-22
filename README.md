@@ -8,6 +8,8 @@ https://github.com/dandamdandam/algorithm/blob/main/
 ### 그래프 탐색
 - [7576.py](https://github.com/dandamdandam/algorithm/blob/main/7576)
 
+### 다익스트라
+- [1916.py](https://github.com/dandamdandam/algorithm/blob/main/1916.py)
 ### 다이나믹 프로그래밍
 - [11726.py](https://github.com/dandamdandam/algorithm/blob/main/11726.py)
 - [9095.py](https://github.com/dandamdandam/algorithm/blob/main/9095.py)
