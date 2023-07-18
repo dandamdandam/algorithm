@@ -18,6 +18,9 @@ https://github.com/dandamdandam/algorithm/blob/main/
 
 ### 브루트포스 알고리즘
 - [18111.py](https://github.com/dandamdandam/algorithm/blob/main/18111.py)
+### 백 트래킹
+- [15649.py](https://github.com/dandamdandam/algorithm/blob/main/15649.py)
+- [15650.py](https://github.com/dandamdandam/algorithm/blob/main/15650.py)
 
 ### 재귀
 - [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
