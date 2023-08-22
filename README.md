@@ -15,6 +15,7 @@
 ### 다익스트라
 
 - [1916.py](https://github.com/dandamdandam/algorithm/blob/main/1916.py)
+- [1735.py](https://github.com/dandamdandam/algorithm/blob/main/1735.py)
 
 ### 다이나믹 프로그래밍
 
@@ -47,3 +48,7 @@
 ### 분할정복
 
 - [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
+
+### 힙
+
+- [1735.py](https://github.com/dandamdandam/algorithm/blob/main/1735.py)
