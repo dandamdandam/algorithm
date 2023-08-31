@@ -41,6 +41,10 @@
 
 - [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
 
+### 투 포인트
+
+- [2467.py](https://github.com/dandamdandam/algorithm/blob/main/2467.py)
+
 ### 파싱
 
 - [5430.py](https://github.com/dandamdandam/algorithm/blob/main/5430.py)
