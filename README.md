@@ -37,6 +37,10 @@
 - [15650.py](https://github.com/dandamdandam/algorithm/blob/main/15650.py)
 - [9663.py](https://github.com/dandamdandam/algorithm/blob/main/9663.py)
 
+### 정수론
+
+- [27172.py](https://github.com/dandamdandam/algorithm/blob/main/27172.py)
+
 ### 재귀
 
 - [2630.py](https://github.com/dandamdandam/algorithm/blob/main/2630.py)
